@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HumansOfGitHub</string>
+    <string name="error_title">Error occured</string>
+    <string name="error_message">error occured</string>
+    <string name="error_ok_button_text">error occured</string>
+    <string name="network_unavailable_message">network not available</string>
+</resources>
